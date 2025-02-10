@@ -1,0 +1,1001 @@
+Category,Sub_Category,Inventory_Level,Demand_Forecast,Lead_Time_Days,Country,Supplier_Rating,Order_Quantity,Shipping_Cost
+Apparel,Clothing,317,276,15,Brazil,4.2,314,240.15
+Automotive,Car Parts,136,165,14,Germany,8.2,328,310.06
+Food,Food Products,444,535,19,India,6.8,612,413.69
+Apparel,Clothing,315,231,18,India,5.9,359,377.19
+Electronics,Laptops,425,298,11,China,5.8,710,415.71
+Electronics,Phones,370,383,8,USA,10.3,999,303.75
+Electronics,Phones,388,472,7,Germany,7.6,820,290.83
+Automotive,Car Parts,187,183,20,India,6.7,337,301.9
+Food,Food Products,441,501,10,China,4.5,430,243.34
+Food,Food Products,691,409,20,Brazil,3.9,351,366.65
+Electronics,Phones,455,276,24,India,6.8,723,303.29
+Automotive,Car Parts,185,185,16,China,8.1,422,315.57
+Food,Food Products,437,476,0,USA,7.0,641,295.81
+Furniture,Chairs,242,182,8,USA,5.3,446,196.18
+Electronics,Laptops,378,388,18,India,5.8,621,270.79
+Electronics,Phones,456,311,16,India,6.2,512,347.24
+Furniture,Tables,222,155,9,Germany,8.1,686,339.45
+Apparel,Clothing,322,292,14,China,5.7,232,319.58
+Apparel,Clothing,320,293,18,India,5.8,356,313.21
+Furniture,Tables,248,168,14,Germany,7.3,713,372.08
+Food,Food Products,630,588,16,Germany,6.9,326,308.04
+Electronics,Laptops,405,333,16,India,6.9,900,400.11
+Furniture,Tables,292,204,3,USA,7.6,640,287.28
+Apparel,Clothing,285,247,15,China,6.3,390,323.99
+Apparel,Clothing,278,271,14,China,5.7,324,441.01
+Food,Food Products,573,472,6,USA,7.3,392,169.98
+Electronics,Laptops,422,365,23,India,6.2,618,429.31
+Apparel,Clothing,307,209,17,China,9.1,715,416.62
+Apparel,Clothing,290,182,22,India,6.8,347,329.63
+Electronics,Phones,477,419,25,India,5.2,426,327.42
+Food,Food Products,388,406,5,Germany,7.3,564,300.13
+Electronics,Phones,341,347,9,USA,6.5,726,305.66
+Electronics,Phones,447,370,19,India,5.8,616,339.17
+Automotive,Car Parts,167,229,20,Brazil,4.3,215,241.46
+Automotive,Car Parts,157,185,2,USA,8.1,442,271.27
+Food,Food Products,471,418,12,China,2.5,137,392.96
+Furniture,Chairs,275,174,12,Germany,8.5,762,249.15
+Electronics,Laptops,486,348,9,China,6.9,880,505.87
+Food,Food Products,752,377,18,China,8.4,540,302.16
+Apparel,Clothing,250,251,9,USA,8.6,372,208.39
+Electronics,Phones,379,347,16,China,5.5,683,306.05
+Apparel,Clothing,286,316,20,India,6.9,608,340.8
+Electronics,Laptops,481,345,12,China,6.2,702,306.23
+Automotive,Car Parts,100,122,12,Germany,6.1,315,235.21
+Furniture,Chairs,276,334,11,Germany,8.2,690,291.48
+Food,Food Products,474,527,15,Brazil,4.6,485,316.13
+Furniture,Tables,332,304,9,Germany,8.0,694,328.77
+Apparel,Clothing,345,204,15,China,9.0,548,416.86
+Apparel,Clothing,311,241,9,Germany,8.2,578,356.51
+Electronics,Laptops,321,390,1,USA,6.3,658,296.54
+Automotive,Car Parts,139,196,12,Germany,9.0,371,276.65
+Food,Food Products,454,475,19,India,6.4,562,225.73
+Automotive,Car Parts,123,114,5,USA,6.1,271,171.24
+Automotive,Car Parts,173,129,16,Brazil,3.1,96,325.58
+Apparel,Clothing,256,311,21,India,4.8,449,375.5
+Automotive,Car Parts,189,231,16,China,7.8,377,306.87
+Electronics,Phones,498,344,19,China,6.0,730,300.94
+Electronics,Laptops,381,433,16,China,6.6,748,322.43
+Electronics,Laptops,416,289,19,India,4.4,406,331.05
+Furniture,Chairs,246,160,18,India,7.0,671,357.67
+Apparel,Clothing,327,206,23,India,3.6,246,367.14
+Furniture,Tables,314,158,4,USA,6.7,535,239.96
+Food,Food Products,526,508,4,USA,8.0,639,256.59
+Apparel,Clothing,314,216,14,China,4.8,265,382.77
+Furniture,Chairs,219,312,9,Germany,8.6,665,231.53
+Apparel,Clothing,313,268,15,China,5.2,240,339.91
+Electronics,Phones,408,415,24,Brazil,3.7,439,285.5
+Food,Food Products,409,489,2,USA,9.0,644,285.77
+Electronics,Phones,399,423,18,India,6.2,846,395.35
+Automotive,Car Parts,142,154,9,USA,8.1,404,219.47
+Food,Food Products,439,566,19,India,7.2,471,296.66
+Electronics,Laptops,343,358,17,Brazil,1.6,193,152.64
+Electronics,Laptops,403,423,21,Brazil,6.5,596,360.89
+Food,Food Products,422,335,1,USA,6.6,486,255.84
+Food,Food Products,453,464,22,India,5.2,422,406.12
+Food,Food Products,608,462,18,Brazil,6.2,479,285.97
+Food,Food Products,563,400,16,China,6.0,564,402.11
+Electronics,Laptops,351,369,16,China,7.4,1091,355.64
+Apparel,Clothing,311,312,18,India,6.0,419,159.61
+Electronics,Phones,407,308,8,USA,7.7,984,295.6
+Automotive,Car Parts,184,209,16,Brazil,4.8,391,267.92
+Food,Food Products,638,360,6,USA,6.2,376,206.08
+Furniture,Tables,173,305,19,China,5.4,482,393.11
+Electronics,Phones,443,397,22,Brazil,5.3,554,381.81
+Furniture,Chairs,313,286,4,USA,9.7,917,294.82
+Furniture,Tables,278,234,11,Germany,9.5,851,327.75
+Food,Food Products,466,481,19,India,5.2,318,315.52
+Food,Food Products,741,513,28,India,6.1,456,286.47
+Automotive,Car Parts,163,176,12,Germany,7.7,448,317.35
+Apparel,Clothing,359,185,15,China,6.7,327,255.75
+Electronics,Phones,468,377,19,Brazil,5.9,583,259.25
+Food,Food Products,546,390,21,India,6.6,412,273.75
+Food,Food Products,442,362,11,Germany,5.1,412,312.83
+Apparel,Clothing,299,275,9,Germany,8.4,610,298.87
+Food,Food Products,478,428,14,China,5.9,262,394.19
+Apparel,Clothing,264,291,15,China,5.4,347,374.84
+Apparel,Clothing,320,218,2,USA,8.5,464,222.33
+Apparel,Clothing,347,231,22,India,7.8,555,373.55
+Electronics,Laptops,385,419,3,USA,8.3,913,279.06
+Electronics,Laptops,508,367,7,Germany,7.5,855,354.4
+Electronics,Laptops,322,261,18,Brazil,3.9,437,350.55
+Food,Food Products,605,471,18,Brazil,1.0,175,338.86
+Furniture,Tables,334,274,16,China,6.8,757,385.76
+Apparel,Clothing,294,231,16,Brazil,6.4,319,379.87
+Automotive,Car Parts,146,198,17,Brazil,5.3,210,305.29
+Furniture,Tables,302,158,20,Brazil,6.9,630,330.38
+Apparel,Clothing,315,245,12,Germany,6.7,360,273.93
+Food,Food Products,300,537,20,Brazil,5.2,477,273.0
+Furniture,Chairs,208,211,18,Brazil,5.1,536,336.69
+Electronics,Phones,399,427,19,Brazil,5.3,546,320.09
+Furniture,Chairs,182,221,6,USA,8.9,718,279.6
+Electronics,Laptops,376,483,8,Germany,7.9,861,355.3
+Automotive,Car Parts,123,133,19,China,6.1,309,343.74
+Food,Food Products,463,433,9,USA,6.4,507,311.05
+Food,Food Products,466,363,22,India,7.6,367,285.0
+Automotive,Car Parts,157,150,9,Germany,6.6,270,294.33
+Food,Food Products,491,369,12,Germany,7.4,522,293.11
+Electronics,Laptops,425,360,23,India,8.0,824,214.71
+Automotive,Car Parts,158,187,16,India,6.6,156,284.01
+Apparel,Clothing,331,267,25,India,6.0,241,247.94
+Food,Food Products,587,360,10,China,6.5,372,333.9
+Automotive,Car Parts,165,170,20,Brazil,4.1,197,278.26
+Furniture,Tables,405,152,14,Germany,7.9,659,331.33
+Electronics,Phones,417,406,18,Brazil,5.0,497,280.5
+Furniture,Tables,380,156,18,Brazil,5.8,569,294.57
+Apparel,Clothing,312,241,22,India,4.2,318,353.82
+Food,Food Products,492,495,21,China,7.1,546,314.12
+Automotive,Car Parts,143,162,4,USA,8.7,443,189.17
+Electronics,Phones,475,392,13,China,6.2,611,368.97
+Apparel,Clothing,349,314,17,Brazil,6.5,353,354.18
+Apparel,Clothing,318,258,10,China,7.0,316,366.04
+Furniture,Chairs,307,245,23,India,5.3,441,334.64
+Electronics,Laptops,336,226,3,USA,6.2,779,315.46
+Furniture,Tables,173,179,19,India,4.9,537,398.61
+Automotive,Car Parts,175,186,8,USA,7.9,378,227.86
+Furniture,Chairs,244,147,17,Brazil,5.4,513,324.94
+Apparel,Clothing,322,258,7,USA,9.0,364,245.16
+Food,Food Products,428,535,2,USA,8.4,595,256.87
+Apparel,Clothing,350,175,8,USA,8.4,496,283.62
+Automotive,Car Parts,119,144,16,China,6.9,434,335.81
+Automotive,Car Parts,122,186,15,China,5.1,276,302.63
+Furniture,Tables,322,223,18,Brazil,6.0,563,173.81
+Apparel,Clothing,222,280,1,USA,7.6,505,226.5
+Furniture,Chairs,269,206,10,Germany,6.9,604,257.79
+Furniture,Tables,245,223,18,Brazil,7.3,763,334.04
+Electronics,Laptops,363,404,1,USA,8.8,762,238.59
+Food,Food Products,480,417,3,USA,6.1,473,265.53
+Apparel,Clothing,275,226,15,China,5.5,426,397.98
+Electronics,Phones,477,340,16,Brazil,4.7,337,291.97
+Furniture,Tables,340,210,-2,USA,8.2,787,249.21
+Automotive,Car Parts,136,160,8,USA,8.1,359,244.49
+Furniture,Chairs,264,180,18,Brazil,5.6,496,413.73
+Electronics,Laptops,334,374,3,Germany,8.3,853,398.58
+Apparel,Clothing,332,256,24,Brazil,3.6,290,211.68
+Automotive,Car Parts,171,174,22,Brazil,6.1,286,209.26
+Furniture,Chairs,235,113,9,Germany,7.9,759,257.9
+Food,Food Products,502,450,15,Brazil,4.5,375,234.99
+Food,Food Products,491,372,6,USA,5.7,353,242.86
+Furniture,Chairs,169,249,19,Brazil,5.5,525,281.88
+Food,Food Products,655,425,12,Germany,8.4,567,273.16
+Apparel,Clothing,277,210,17,India,4.0,252,367.53
+Food,Food Products,424,445,21,Brazil,5.5,387,327.85
+Food,Food Products,485,552,14,China,6.7,582,272.99
+Apparel,Clothing,330,275,7,USA,6.8,465,275.95
+Electronics,Laptops,370,363,3,USA,8.0,892,304.38
+Food,Food Products,305,344,23,China,6.3,411,367.5
+Furniture,Chairs,206,281,17,China,6.9,504,321.92
+Electronics,Laptops,421,313,27,Brazil,6.3,722,321.95
+Electronics,Laptops,509,406,17,China,7.3,758,277.19
+Apparel,Clothing,262,237,18,India,7.2,320,364.0
+Food,Food Products,370,517,12,Germany,8.3,506,260.61
+Electronics,Laptops,324,428,18,China,5.8,813,337.8
+Apparel,Clothing,251,276,16,China,5.5,299,285.73
+Furniture,Chairs,310,238,22,India,4.7,500,438.02
+Food,Food Products,649,442,7,USA,7.7,544,234.34
+Electronics,Phones,409,324,2,USA,9.1,1146,342.88
+Food,Food Products,453,461,15,Brazil,5.0,477,306.4
+Apparel,Clothing,354,236,18,India,6.5,351,265.35
+Automotive,Car Parts,153,254,10,Germany,7.2,243,233.89
+Electronics,Laptops,454,290,9,Germany,8.2,732,298.0
+Furniture,Tables,224,250,17,India,7.5,593,334.79
+Electronics,Phones,402,381,12,Germany,8.7,1166,390.69
+Automotive,Car Parts,125,187,6,USA,5.6,256,211.48
+Automotive,Car Parts,163,224,11,Germany,8.6,437,273.39
+Furniture,Tables,260,215,9,Germany,8.6,858,300.57
+Food,Food Products,411,399,19,India,6.2,476,255.91
+Food,Food Products,412,473,17,India,6.8,517,255.03
+Apparel,Clothing,348,243,13,Germany,7.2,491,338.67
+Apparel,Clothing,359,270,13,China,6.6,432,316.8
+Furniture,Tables,239,241,21,India,7.3,634,316.94
+Electronics,Phones,403,298,23,Brazil,7.0,719,295.21
+Automotive,Car Parts,158,216,17,Brazil,6.3,321,274.65
+Automotive,Car Parts,153,172,8,USA,6.4,388,249.9
+Food,Food Products,333,485,12,Germany,7.0,682,298.76
+Furniture,Tables,271,231,16,China,6.7,607,369.75
+Furniture,Chairs,146,218,6,USA,7.7,736,316.11
+Food,Food Products,427,441,10,Germany,7.9,617,278.89
+Automotive,Car Parts,160,165,20,India,5.0,246,278.28
+Automotive,Car Parts,162,172,16,Brazil,6.2,339,329.12
+Food,Food Products,419,575,15,China,6.7,607,435.56
+Food,Food Products,454,381,16,Brazil,5.9,365,228.21
+Electronics,Laptops,370,307,23,India,6.7,610,238.95
+Electronics,Phones,395,304,5,Germany,7.7,816,331.57
+Automotive,Car Parts,149,184,21,India,5.4,283,302.1
+Food,Food Products,567,328,21,India,7.3,628,384.81
+Electronics,Laptops,374,269,19,Brazil,4.4,392,329.32
+Electronics,Laptops,419,334,18,China,5.8,403,338.62
+Food,Food Products,551,347,19,India,7.5,515,394.48
+Electronics,Phones,410,278,19,Brazil,4.7,507,273.25
+Electronics,Laptops,387,273,10,China,6.4,598,370.42
+Apparel,Clothing,305,216,9,Germany,7.6,421,243.5
+Food,Food Products,575,508,13,Germany,6.2,544,302.75
+Food,Food Products,584,526,1,USA,7.4,558,212.01
+Furniture,Chairs,341,296,18,Brazil,4.0,376,236.25
+Food,Food Products,401,601,13,China,6.9,484,433.89
+Furniture,Tables,228,239,20,India,7.3,581,228.6
+Furniture,Chairs,169,251,8,Germany,5.8,477,289.06
+Food,Food Products,593,460,11,China,5.9,487,390.02
+Food,Food Products,467,492,19,Brazil,6.2,329,415.09
+Food,Food Products,521,605,5,USA,4.9,515,256.76
+Food,Food Products,440,480,12,Germany,9.3,752,334.56
+Apparel,Clothing,290,296,17,China,7.1,404,342.42
+Electronics,Phones,461,294,19,China,8.1,995,452.4
+Apparel,Clothing,321,223,15,China,5.7,439,365.48
+Furniture,Chairs,244,216,22,Brazil,4.8,397,268.03
+Furniture,Chairs,288,207,15,Brazil,5.3,443,365.63
+Automotive,Car Parts,166,161,21,Brazil,8.7,525,287.08
+Apparel,Clothing,288,346,21,India,7.6,622,246.31
+Automotive,Car Parts,121,185,16,China,6.7,337,253.9
+Food,Food Products,410,415,11,Germany,8.3,515,293.44
+Food,Food Products,366,462,15,Brazil,6.5,442,309.82
+Apparel,Clothing,335,251,14,Brazil,9.1,640,376.59
+Apparel,Clothing,340,258,20,China,7.1,370,369.04
+Apparel,Clothing,348,186,17,Brazil,5.6,333,297.74
+Electronics,Laptops,299,428,19,India,5.6,659,406.55
+Food,Food Products,607,558,17,India,6.3,388,319.57
+Furniture,Tables,361,274,14,Brazil,4.6,492,238.22
+Electronics,Phones,456,370,15,China,7.2,884,313.01
+Food,Food Products,285,503,14,China,4.4,507,414.65
+Electronics,Phones,488,298,15,China,6.1,765,264.28
+Automotive,Car Parts,151,205,5,USA,8.4,361,230.12
+Automotive,Car Parts,145,188,25,Brazil,6.1,335,457.45
+Automotive,Car Parts,159,166,14,China,5.8,350,357.92
+Apparel,Clothing,269,285,25,India,5.7,430,310.52
+Electronics,Phones,400,404,15,Germany,9.0,939,276.5
+Automotive,Car Parts,182,182,12,Germany,6.8,286,343.26
+Apparel,Clothing,319,268,14,China,4.7,214,382.05
+Automotive,Car Parts,151,149,6,Germany,7.1,450,322.37
+Automotive,Car Parts,152,217,11,Germany,8.0,437,293.66
+Automotive,Car Parts,126,153,8,USA,5.9,244,241.59
+Furniture,Tables,243,165,25,India,7.1,635,334.61
+Apparel,Clothing,251,252,17,India,4.9,297,251.31
+Automotive,Car Parts,170,213,4,USA,7.8,330,261.7
+Furniture,Tables,141,256,2,USA,6.8,598,258.31
+Electronics,Laptops,443,350,8,Germany,7.9,912,362.05
+Apparel,Clothing,329,281,20,Brazil,3.1,329,286.2
+Automotive,Car Parts,176,129,8,Germany,9.0,411,309.55
+Food,Food Products,509,392,3,USA,6.3,322,231.78
+Apparel,Clothing,327,222,22,India,4.7,222,296.61
+Electronics,Laptops,392,425,11,Germany,10.4,1078,359.04
+Food,Food Products,381,502,19,Brazil,6.3,436,466.49
+Automotive,Car Parts,181,186,8,Germany,9.0,385,320.63
+Electronics,Phones,395,367,19,China,7.2,891,518.39
+Apparel,Clothing,258,313,10,Germany,7.5,394,289.04
+Automotive,Car Parts,141,175,12,USA,5.9,298,220.51
+Food,Food Products,457,345,20,India,5.6,603,275.86
+Food,Food Products,546,537,13,India,4.8,412,417.37
+Food,Food Products,735,465,-2,USA,6.4,520,224.89
+Apparel,Clothing,316,288,17,China,4.1,388,429.26
+Furniture,Chairs,260,198,9,USA,7.6,768,246.31
+Food,Food Products,746,383,8,Germany,9.6,769,362.35
+Food,Food Products,598,482,11,USA,8.2,585,210.75
+Automotive,Car Parts,155,180,10,USA,7.4,367,223.47
+Automotive,Car Parts,140,186,16,China,6.4,318,332.87
+Apparel,Clothing,309,315,12,Germany,5.0,281,254.24
+Apparel,Clothing,298,206,21,Brazil,4.9,319,282.57
+Food,Food Products,509,473,24,Brazil,3.4,284,279.31
+Food,Food Products,631,384,22,India,6.2,350,363.42
+Food,Food Products,446,243,6,USA,7.2,686,206.0
+Food,Food Products,551,446,22,India,5.0,409,287.09
+Automotive,Car Parts,169,181,17,China,6.7,318,394.49
+Furniture,Chairs,217,231,21,Brazil,5.7,512,342.19
+Apparel,Clothing,275,241,0,USA,9.3,648,302.92
+Electronics,Laptops,392,261,16,China,7.5,700,407.98
+Apparel,Clothing,286,217,16,China,6.8,419,287.75
+Electronics,Laptops,458,429,5,USA,6.4,597,279.55
+Apparel,Clothing,270,217,17,China,4.9,492,354.17
+Apparel,Clothing,302,313,11,USA,8.2,523,320.38
+Furniture,Tables,377,252,5,USA,7.3,541,278.17
+Apparel,Clothing,312,237,12,Germany,8.2,768,347.69
+Electronics,Phones,429,306,25,India,7.2,753,395.51
+Electronics,Phones,458,413,15,China,4.2,455,368.94
+Food,Food Products,454,431,12,China,8.6,632,385.33
+Apparel,Clothing,268,188,12,Germany,9.0,501,289.47
+Electronics,Laptops,409,384,3,Germany,5.9,694,340.78
+Apparel,Clothing,308,267,3,Germany,10.4,492,337.17
+Food,Food Products,338,541,19,Brazil,6.0,546,372.96
+Furniture,Chairs,269,217,11,Brazil,4.8,328,344.47
+Food,Food Products,607,406,14,Brazil,6.3,434,386.3
+Electronics,Laptops,354,426,4,USA,6.3,787,312.38
+Electronics,Laptops,422,432,13,China,7.3,803,411.72
+Apparel,Clothing,327,259,20,India,5.0,304,241.78
+Apparel,Clothing,318,252,8,USA,9.9,549,220.65
+Food,Food Products,568,344,16,China,6.6,683,355.88
+Food,Food Products,476,401,12,China,7.5,608,363.18
+Automotive,Car Parts,127,203,14,Germany,7.2,296,335.49
+Apparel,Clothing,287,228,6,Germany,8.8,564,195.16
+Furniture,Chairs,221,127,6,USA,7.5,563,225.27
+Food,Food Products,492,730,5,Germany,6.6,649,307.14
+Furniture,Tables,305,127,16,China,6.1,553,305.5
+Apparel,Clothing,261,340,9,Germany,9.9,552,273.32
+Electronics,Phones,407,332,21,Brazil,6.8,833,315.89
+Electronics,Laptops,347,345,12,Germany,7.6,830,295.12
+Automotive,Car Parts,135,160,13,China,3.7,108,272.13
+Food,Food Products,556,513,3,USA,6.5,522,293.08
+Food,Food Products,381,335,19,India,4.3,355,352.38
+Apparel,Clothing,322,176,16,Germany,6.2,464,326.99
+Electronics,Phones,332,447,20,China,7.7,870,385.32
+Electronics,Phones,433,302,17,India,6.1,694,410.08
+Furniture,Chairs,173,237,22,India,8.2,726,403.5
+Apparel,Clothing,281,207,13,Brazil,4.0,362,329.11
+Food,Food Products,690,507,19,India,6.0,422,282.94
+Food,Food Products,671,585,12,China,4.4,373,315.19
+Furniture,Tables,229,174,18,China,5.6,540,406.91
+Automotive,Car Parts,158,122,6,Germany,7.8,410,270.32
+Food,Food Products,620,585,11,Germany,7.6,541,252.52
+Apparel,Clothing,320,287,10,Germany,8.1,512,279.74
+Food,Food Products,473,412,19,India,7.2,529,426.47
+Apparel,Clothing,278,241,25,India,7.0,577,305.61
+Furniture,Tables,293,144,23,Brazil,4.3,344,312.39
+Apparel,Clothing,334,307,10,Germany,8.0,434,268.79
+Food,Food Products,672,407,4,USA,8.5,633,286.24
+Electronics,Phones,316,265,13,Brazil,7.1,786,368.11
+Electronics,Phones,337,363,5,USA,6.7,774,232.68
+Electronics,Laptops,458,298,26,India,6.8,725,368.57
+Electronics,Laptops,322,288,18,Brazil,6.0,686,236.02
+Automotive,Car Parts,175,167,20,Brazil,3.9,203,249.81
+Food,Food Products,479,457,11,China,7.7,659,365.33
+Apparel,Clothing,284,195,19,India,6.2,393,430.1
+Electronics,Laptops,410,433,21,India,3.9,450,344.09
+Apparel,Clothing,260,277,18,Brazil,5.1,352,253.04
+Apparel,Clothing,325,235,22,India,6.0,439,304.84
+Electronics,Phones,484,296,16,Brazil,4.6,418,352.65
+Apparel,Clothing,326,246,10,China,8.3,434,305.7
+Apparel,Clothing,293,286,21,Brazil,7.4,581,378.43
+Food,Food Products,346,510,17,India,5.5,479,296.51
+Food,Food Products,350,535,22,India,5.4,386,263.68
+Electronics,Laptops,334,321,19,Brazil,5.3,599,292.85
+Apparel,Clothing,300,133,13,Brazil,5.2,298,200.86
+Food,Food Products,511,550,21,Brazil,4.6,365,176.99
+Apparel,Clothing,326,243,8,Germany,4.3,200,266.72
+Automotive,Car Parts,114,200,20,India,8.1,456,321.53
+Food,Food Products,631,584,19,India,6.0,466,341.97
+Electronics,Laptops,435,496,15,Germany,7.8,901,336.61
+Electronics,Phones,384,311,22,Brazil,6.0,584,446.53
+Food,Food Products,381,461,10,China,6.4,526,360.99
+Electronics,Laptops,462,432,25,Brazil,4.9,459,230.2
+Apparel,Clothing,291,216,16,Brazil,4.0,201,218.51
+Automotive,Car Parts,150,163,16,Germany,6.2,313,281.34
+Apparel,Clothing,312,226,19,India,4.4,449,298.77
+Apparel,Clothing,273,249,17,Brazil,3.8,251,217.54
+Food,Food Products,472,432,19,India,6.8,277,304.21
+Apparel,Clothing,326,226,4,USA,8.4,478,246.49
+Apparel,Clothing,323,211,28,India,4.9,357,411.41
+Automotive,Car Parts,165,204,15,China,2.5,58,259.95
+Apparel,Clothing,265,304,14,China,6.5,465,325.64
+Automotive,Car Parts,145,224,18,Brazil,4.9,253,372.89
+Automotive,Car Parts,142,166,17,India,5.5,333,332.99
+Electronics,Laptops,421,401,23,Brazil,6.9,724,281.71
+Electronics,Laptops,417,364,6,Germany,8.1,852,306.6
+Electronics,Phones,408,316,13,China,5.0,623,301.59
+Electronics,Phones,523,394,21,Brazil,3.7,414,305.69
+Electronics,Phones,385,313,10,Germany,7.7,864,377.61
+Food,Food Products,459,420,20,Brazil,4.1,452,394.87
+Electronics,Phones,342,267,25,India,5.9,726,263.39
+Furniture,Chairs,173,177,23,India,7.2,474,379.5
+Food,Food Products,378,470,20,India,4.3,398,329.63
+Electronics,Phones,364,444,26,India,6.1,757,339.96
+Food,Food Products,631,422,3,USA,8.6,751,262.63
+Furniture,Chairs,252,148,10,Germany,7.9,617,234.89
+Electronics,Laptops,410,440,10,Germany,8.7,1014,376.89
+Food,Food Products,490,410,20,India,5.7,434,244.29
+Food,Food Products,537,310,2,USA,7.7,492,226.72
+Automotive,Car Parts,178,184,15,India,6.5,383,343.4
+Food,Food Products,301,424,6,USA,6.8,489,194.43
+Food,Food Products,622,634,18,India,8.4,733,274.04
+Furniture,Tables,124,224,21,China,7.4,585,419.45
+Electronics,Phones,401,341,15,China,8.5,805,386.61
+Food,Food Products,719,376,17,Brazil,7.1,511,274.69
+Food,Food Products,568,476,23,India,6.4,500,337.59
+Automotive,Car Parts,157,224,11,Germany,9.4,437,320.5
+Apparel,Clothing,360,262,17,Brazil,5.8,147,336.55
+Apparel,Clothing,279,216,13,China,5.4,365,280.85
+Food,Food Products,543,493,31,India,6.0,485,267.05
+Furniture,Tables,279,198,19,Brazil,4.0,404,333.88
+Automotive,Car Parts,140,193,23,India,3.5,151,333.53
+Automotive,Car Parts,141,169,12,China,5.2,235,256.3
+Apparel,Clothing,284,235,16,Brazil,5.6,451,250.84
+Food,Food Products,509,417,21,China,8.1,465,336.83
+Food,Food Products,555,525,9,USA,6.5,463,247.03
+Electronics,Laptops,406,328,16,China,8.0,916,394.19
+Automotive,Car Parts,164,166,19,India,4.5,264,224.81
+Apparel,Clothing,241,212,9,Germany,7.1,454,297.11
+Food,Food Products,478,486,13,China,8.7,568,320.89
+Furniture,Chairs,199,216,7,Germany,8.0,798,283.1
+Automotive,Car Parts,156,167,8,USA,7.3,365,236.14
+Apparel,Clothing,309,222,20,Brazil,5.9,249,278.69
+Electronics,Laptops,394,463,20,Brazil,3.7,436,347.7
+Automotive,Car Parts,160,124,9,Germany,7.7,412,256.76
+Electronics,Laptops,450,380,19,Brazil,5.5,815,354.46
+Furniture,Tables,247,265,14,China,8.3,763,297.87
+Automotive,Car Parts,129,78,8,Germany,6.3,228,261.76
+Automotive,Car Parts,118,204,25,India,8.1,319,339.72
+Apparel,Clothing,301,241,15,China,6.3,483,375.67
+Food,Food Products,524,470,17,China,4.8,290,356.77
+Apparel,Clothing,271,237,18,China,4.6,177,357.89
+Furniture,Tables,286,254,20,India,6.3,634,316.62
+Furniture,Tables,227,218,6,USA,5.9,477,262.55
+Food,Food Products,334,461,15,Brazil,4.7,435,406.25
+Food,Food Products,626,378,7,Germany,7.8,499,281.21
+Food,Food Products,614,601,2,USA,8.9,798,321.21
+Food,Food Products,298,451,12,Germany,9.0,755,360.55
+Electronics,Phones,372,487,18,Brazil,4.5,438,289.15
+Apparel,Clothing,282,327,17,India,5.7,243,293.31
+Electronics,Phones,482,243,17,China,4.1,693,375.17
+Apparel,Clothing,297,224,17,China,3.4,200,361.05
+Apparel,Clothing,255,209,18,India,4.5,229,327.1
+Automotive,Car Parts,168,179,5,USA,8.8,526,238.31
+Apparel,Clothing,263,257,7,USA,8.4,593,196.88
+Electronics,Phones,387,364,7,Germany,8.4,1061,383.03
+Electronics,Laptops,362,413,22,India,4.3,468,210.89
+Food,Food Products,444,569,6,USA,6.6,668,225.8
+Food,Food Products,594,527,17,India,5.0,255,281.34
+Electronics,Phones,476,316,19,Brazil,5.3,536,246.78
+Electronics,Laptops,336,303,16,China,6.2,732,389.03
+Food,Food Products,563,450,13,China,5.0,480,333.18
+Electronics,Laptops,363,376,13,China,7.0,856,424.89
+Food,Food Products,430,435,17,India,6.3,463,229.85
+Food,Food Products,549,342,19,India,5.1,342,274.45
+Electronics,Laptops,349,391,10,Germany,8.3,1052,355.33
+Electronics,Laptops,424,326,13,China,8.2,997,401.88
+Automotive,Car Parts,165,167,6,Germany,9.4,419,319.65
+Apparel,Clothing,287,248,13,China,7.2,389,293.17
+Apparel,Clothing,340,240,9,Germany,8.5,491,280.34
+Food,Food Products,373,421,12,Germany,7.8,521,322.43
+Automotive,Car Parts,177,142,20,Brazil,7.0,414,180.48
+Automotive,Car Parts,111,177,13,Germany,6.9,373,302.66
+Food,Food Products,770,506,18,India,7.1,582,384.08
+Apparel,Clothing,288,261,10,Germany,7.7,495,246.2
+Electronics,Phones,342,407,8,China,8.7,1007,384.92
+Food,Food Products,477,392,11,Germany,8.6,502,359.88
+Apparel,Clothing,269,199,7,USA,7.4,519,271.72
+Apparel,Clothing,312,240,14,China,6.1,345,356.81
+Automotive,Car Parts,177,162,6,USA,8.1,405,270.18
+Electronics,Phones,350,319,10,China,7.2,764,466.67
+Apparel,Clothing,317,258,18,India,5.5,355,316.65
+Electronics,Laptops,323,320,22,India,6.1,745,330.04
+Apparel,Clothing,331,200,22,India,7.1,372,376.47
+Electronics,Phones,421,316,4,USA,5.9,685,262.87
+Electronics,Laptops,454,370,20,Brazil,6.6,696,278.59
+Electronics,Phones,394,390,15,China,7.3,951,368.13
+Food,Food Products,456,503,18,India,7.4,456,344.39
+Food,Food Products,582,484,14,China,5.4,317,309.2
+Apparel,Clothing,261,243,4,USA,7.5,444,233.15
+Automotive,Car Parts,115,192,14,Brazil,5.8,235,226.98
+Apparel,Clothing,300,248,9,USA,8.4,508,293.91
+Furniture,Chairs,231,206,13,China,7.1,583,341.15
+Automotive,Car Parts,161,152,16,Brazil,3.6,187,239.6
+Furniture,Tables,305,202,13,Brazil,5.9,600,286.73
+Automotive,Car Parts,161,191,-3,USA,9.9,500,274.03
+Electronics,Phones,451,370,22,India,6.7,774,391.77
+Automotive,Car Parts,156,141,17,China,9.0,384,313.35
+Electronics,Laptops,425,356,14,Germany,9.0,1004,351.69
+Automotive,Car Parts,148,137,10,Germany,9.4,443,305.35
+Apparel,Clothing,314,257,4,USA,7.9,540,232.85
+Automotive,Car Parts,153,159,13,China,7.3,318,254.8
+Electronics,Phones,416,452,14,China,6.9,688,394.58
+Apparel,Clothing,295,255,8,USA,7.5,491,229.67
+Automotive,Car Parts,166,204,15,China,7.6,499,371.96
+Apparel,Clothing,279,334,21,India,5.4,324,331.62
+Food,Food Products,498,385,4,USA,9.8,747,276.41
+Food,Food Products,631,485,24,India,4.9,452,299.61
+Apparel,Clothing,272,203,9,China,7.7,518,320.1
+Food,Food Products,284,478,1,USA,9.2,733,239.15
+Apparel,Clothing,311,321,16,China,6.2,383,307.57
+Automotive,Car Parts,145,161,10,USA,6.2,304,247.43
+Electronics,Laptops,451,297,14,China,8.2,851,454.96
+Furniture,Tables,243,195,17,India,6.2,585,413.59
+Automotive,Car Parts,138,241,23,India,7.0,377,326.39
+Automotive,Car Parts,148,203,16,China,6.3,360,405.85
+Apparel,Clothing,333,214,9,USA,9.6,564,247.24
+Food,Food Products,558,566,6,Germany,5.9,516,249.95
+Furniture,Chairs,128,117,24,India,6.5,655,460.77
+Electronics,Phones,409,478,15,India,7.6,735,385.44
+Apparel,Clothing,307,284,9,Germany,8.1,486,237.2
+Apparel,Clothing,299,321,16,China,7.0,517,429.64
+Apparel,Clothing,282,184,6,USA,7.0,391,216.77
+Electronics,Laptops,460,360,18,China,6.5,788,352.47
+Automotive,Car Parts,175,176,13,Brazil,3.0,150,331.19
+Automotive,Car Parts,106,150,20,India,5.1,277,389.38
+Food,Food Products,420,346,22,Brazil,4.3,328,237.71
+Apparel,Clothing,296,270,20,India,6.8,477,416.0
+Furniture,Chairs,297,230,17,India,5.3,383,370.78
+Food,Food Products,503,554,21,Brazil,4.7,269,242.94
+Food,Food Products,432,410,16,Brazil,4.9,502,296.65
+Electronics,Phones,435,342,13,China,5.4,815,457.3
+Automotive,Car Parts,146,139,15,Brazil,5.9,295,203.65
+Food,Food Products,488,573,14,China,7.1,684,437.47
+Automotive,Car Parts,149,182,16,China,7.7,341,376.38
+Food,Food Products,557,508,11,China,7.5,513,376.77
+Food,Food Products,469,511,17,India,6.7,631,350.99
+Apparel,Clothing,321,308,18,India,5.6,407,438.87
+Automotive,Car Parts,149,155,15,Brazil,4.9,342,410.68
+Automotive,Car Parts,129,201,20,India,5.0,276,270.67
+Electronics,Laptops,398,348,19,Brazil,4.2,367,330.41
+Electronics,Laptops,349,476,21,India,6.2,724,464.82
+Apparel,Clothing,301,217,6,USA,6.6,499,226.34
+Food,Food Products,583,544,10,USA,9.3,683,275.56
+Automotive,Car Parts,129,191,19,Brazil,5.4,255,340.71
+Electronics,Phones,418,368,22,India,7.8,926,251.71
+Apparel,Clothing,275,252,19,India,6.7,379,367.59
+Apparel,Clothing,306,304,18,China,5.3,354,280.99
+Automotive,Car Parts,167,188,9,Germany,7.9,401,297.76
+Food,Food Products,287,328,19,Brazil,3.0,180,340.95
+Food,Food Products,389,548,6,Germany,8.2,703,224.69
+Apparel,Clothing,289,291,10,Germany,7.3,502,331.67
+Apparel,Clothing,309,273,15,Brazil,3.8,215,393.57
+Furniture,Tables,242,144,23,India,7.8,684,316.36
+Electronics,Laptops,398,292,21,Brazil,7.0,766,368.27
+Automotive,Car Parts,191,124,9,Germany,9.0,412,344.59
+Food,Food Products,379,487,26,India,6.9,368,221.18
+Automotive,Car Parts,173,140,4,USA,6.0,272,249.91
+Automotive,Car Parts,143,128,13,Brazil,4.9,208,337.06
+Apparel,Clothing,316,301,16,Brazil,5.0,320,327.12
+Food,Food Products,713,511,17,India,3.9,336,318.78
+Automotive,Car Parts,164,170,6,USA,6.8,293,199.33
+Food,Food Products,537,439,1,USA,6.8,547,296.44
+Furniture,Tables,330,80,18,India,6.2,462,328.24
+Apparel,Clothing,334,287,16,China,10.3,635,318.3
+Electronics,Phones,360,308,18,Brazil,5.5,555,298.01
+Automotive,Car Parts,156,190,18,Brazil,5.7,329,313.19
+Food,Food Products,328,251,10,Germany,7.7,592,246.73
+Furniture,Chairs,223,249,19,India,6.9,594,340.44
+Food,Food Products,531,390,5,Germany,6.9,463,279.64
+Food,Food Products,440,340,9,Germany,9.9,713,374.7
+Apparel,Clothing,308,236,6,USA,7.4,587,202.5
+Electronics,Laptops,399,314,18,Brazil,4.9,502,361.83
+Food,Food Products,554,536,11,Germany,9.0,716,378.27
+Apparel,Clothing,287,233,3,USA,6.4,394,184.29
+Food,Food Products,406,559,23,India,6.9,555,232.5
+Apparel,Clothing,344,263,2,Germany,9.4,646,386.08
+Automotive,Car Parts,140,207,18,Brazil,5.1,236,233.83
+Apparel,Clothing,320,250,14,Germany,10.1,678,441.59
+Apparel,Clothing,343,301,24,India,6.8,616,233.28
+Automotive,Car Parts,153,145,9,Germany,8.7,467,303.49
+Apparel,Clothing,274,255,14,Brazil,7.5,585,317.19
+Electronics,Phones,391,326,9,USA,9.5,1112,304.95
+Electronics,Laptops,451,434,18,Brazil,5.9,570,342.44
+Food,Food Products,521,570,5,USA,8.5,659,281.52
+Food,Food Products,379,450,12,China,8.6,615,353.1
+Food,Food Products,560,347,14,Brazil,3.8,228,227.04
+Furniture,Chairs,288,221,20,Brazil,2.9,248,342.47
+Electronics,Laptops,382,250,22,India,5.9,652,382.86
+Electronics,Laptops,431,448,11,Germany,6.2,597,314.26
+Apparel,Clothing,307,231,3,USA,7.1,635,281.37
+Apparel,Clothing,294,249,2,USA,7.9,549,277.96
+Apparel,Clothing,261,223,16,India,5.7,371,271.44
+Apparel,Clothing,332,214,18,India,5.8,371,350.71
+Automotive,Car Parts,165,202,7,Germany,7.0,422,270.08
+Furniture,Chairs,279,192,5,Germany,8.8,935,375.58
+Apparel,Clothing,346,252,20,Brazil,3.9,292,278.62
+Food,Food Products,595,370,11,China,3.3,262,356.77
+Apparel,Clothing,321,284,13,Germany,7.8,590,291.66
+Food,Food Products,279,527,21,India,7.1,545,374.34
+Automotive,Car Parts,174,174,11,Germany,8.1,430,253.86
+Automotive,Car Parts,152,218,10,USA,6.1,365,237.6
+Electronics,Laptops,416,344,11,China,6.7,710,420.01
+Automotive,Car Parts,156,203,21,Brazil,6.2,183,304.03
+Apparel,Clothing,323,185,4,USA,7.6,445,250.27
+Furniture,Chairs,306,218,13,USA,7.2,690,323.14
+Apparel,Clothing,319,239,14,China,7.2,501,401.28
+Automotive,Car Parts,160,185,16,Brazil,2.9,225,329.57
+Apparel,Clothing,307,254,21,India,4.9,280,347.5
+Furniture,Chairs,82,206,17,Brazil,3.5,436,346.69
+Food,Food Products,471,499,8,Germany,9.3,718,388.06
+Furniture,Tables,203,172,2,USA,8.4,779,265.41
+Electronics,Laptops,461,384,14,Germany,8.2,1011,391.49
+Electronics,Phones,431,424,17,India,4.3,341,335.49
+Electronics,Laptops,377,265,11,Germany,8.7,883,323.0
+Electronics,Laptops,382,303,21,Brazil,7.6,749,329.41
+Electronics,Laptops,380,306,13,Germany,8.6,1072,365.92
+Food,Food Products,459,363,18,India,6.0,419,270.34
+Electronics,Laptops,328,322,19,India,6.8,963,428.14
+Furniture,Tables,167,252,19,India,6.3,554,329.22
+Automotive,Car Parts,151,223,13,Brazil,6.9,256,290.29
+Apparel,Clothing,332,254,22,India,7.1,396,401.0
+Food,Food Products,446,424,5,USA,7.2,553,259.21
+Electronics,Phones,415,398,24,India,5.2,637,436.89
+Electronics,Phones,437,208,8,Germany,7.6,757,304.66
+Electronics,Laptops,350,287,13,Germany,8.5,1017,307.83
+Electronics,Laptops,399,211,13,Germany,7.7,945,332.94
+Furniture,Tables,217,147,18,Brazil,4.4,331,138.34
+Electronics,Phones,480,304,3,Germany,8.0,1097,395.91
+Electronics,Laptops,478,439,16,Brazil,7.2,752,278.1
+Electronics,Phones,350,184,23,Brazil,5.7,542,280.18
+Apparel,Clothing,312,233,21,India,5.7,247,347.7
+Furniture,Chairs,303,231,7,USA,7.9,788,282.33
+Apparel,Clothing,325,266,20,India,6.1,383,291.86
+Apparel,Clothing,302,308,19,India,3.7,196,177.45
+Food,Food Products,631,463,12,Brazil,6.5,358,367.37
+Electronics,Phones,355,372,20,Brazil,6.1,649,364.63
+Food,Food Products,470,303,13,Germany,8.0,816,413.78
+Food,Food Products,412,371,7,Germany,9.1,487,274.81
+Electronics,Laptops,439,243,19,India,7.5,776,270.29
+Automotive,Car Parts,138,197,14,China,7.7,492,398.99
+Automotive,Car Parts,147,190,16,China,5.2,336,324.21
+Electronics,Phones,431,369,8,Germany,7.2,751,350.24
+Furniture,Tables,285,156,18,China,8.2,732,454.16
+Food,Food Products,409,372,10,Germany,6.1,501,315.61
+Food,Food Products,606,467,10,Brazil,5.3,408,309.98
+Electronics,Phones,423,310,21,India,6.5,913,385.08
+Furniture,Tables,196,149,8,USA,5.4,500,200.85
+Apparel,Clothing,260,230,17,India,6.3,472,393.69
+Apparel,Clothing,300,224,11,Germany,9.0,572,354.12
+Food,Food Products,585,381,15,Germany,6.5,306,301.79
+Apparel,Clothing,326,201,20,India,8.0,416,230.67
+Apparel,Clothing,311,268,13,Germany,7.0,368,281.95
+Food,Food Products,505,574,14,China,7.4,530,424.9
+Electronics,Phones,426,348,15,China,6.4,925,364.21
+Furniture,Tables,207,211,9,Germany,8.1,735,370.88
+Food,Food Products,669,493,9,Germany,6.7,494,301.63
+Automotive,Car Parts,183,191,15,China,8.4,494,385.01
+Apparel,Clothing,313,216,5,Germany,8.3,419,275.39
+Apparel,Clothing,306,319,9,Germany,9.6,567,310.08
+Electronics,Phones,379,305,24,India,4.5,442,350.35
+Apparel,Clothing,316,276,2,USA,7.3,483,215.81
+Apparel,Clothing,279,271,12,China,6.8,489,362.56
+Furniture,Tables,139,102,20,India,6.1,569,175.59
+Furniture,Tables,114,182,5,USA,8.3,765,258.48
+Apparel,Clothing,276,252,11,Germany,7.8,463,318.02
+Electronics,Laptops,408,358,10,Germany,10.1,1171,411.89
+Furniture,Tables,267,215,20,India,6.0,462,354.56
+Furniture,Chairs,226,238,9,Germany,5.1,502,244.54
+Furniture,Chairs,257,200,14,Brazil,5.6,452,362.03
+Electronics,Laptops,386,371,20,India,7.5,733,284.97
+Automotive,Car Parts,130,179,7,USA,6.4,322,250.61
+Apparel,Clothing,298,209,22,India,4.8,167,230.36
+Food,Food Products,581,453,10,China,5.2,526,313.9
+Food,Food Products,405,510,21,India,4.7,425,265.1
+Apparel,Clothing,271,294,7,Germany,7.5,494,304.92
+Electronics,Phones,347,382,14,Germany,8.9,840,326.17
+Apparel,Clothing,242,303,19,Brazil,7.8,438,331.77
+Apparel,Clothing,286,267,21,Brazil,1.9,119,270.91
+Food,Food Products,571,519,18,Brazil,4.9,346,211.14
+Apparel,Clothing,305,287,5,USA,7.9,373,245.6
+Electronics,Laptops,392,337,22,Brazil,5.8,521,215.21
+Furniture,Tables,256,236,8,USA,9.8,833,256.79
+Apparel,Clothing,285,212,18,Brazil,2.5,65,246.53
+Food,Food Products,305,478,4,USA,4.4,453,232.29
+Apparel,Clothing,324,273,15,India,8.5,564,237.58
+Apparel,Clothing,332,292,21,India,6.9,375,399.8
+Automotive,Car Parts,135,205,10,Germany,7.4,442,360.08
+Food,Food Products,485,535,7,USA,7.7,665,334.03
+Furniture,Chairs,238,195,18,China,6.9,624,419.76
+Electronics,Laptops,418,329,14,Germany,7.4,829,317.09
+Electronics,Laptops,484,334,21,India,6.2,664,321.67
+Furniture,Chairs,308,213,2,USA,7.9,650,250.99
+Electronics,Laptops,381,241,12,Brazil,8.5,825,451.73
+Electronics,Laptops,427,430,13,China,7.9,1047,398.89
+Furniture,Tables,313,202,24,India,8.1,666,422.75
+Electronics,Laptops,420,325,15,Germany,6.7,752,372.82
+Automotive,Car Parts,150,104,4,USA,7.1,300,235.64
+Electronics,Phones,422,348,11,China,6.9,746,302.04
+Apparel,Clothing,279,242,3,USA,5.2,524,249.6
+Apparel,Clothing,283,214,21,Brazil,7.3,404,308.46
+Automotive,Car Parts,129,160,8,Germany,8.6,519,353.02
+Electronics,Phones,415,348,7,USA,7.1,791,279.72
+Apparel,Clothing,296,226,21,India,5.8,409,248.37
+Automotive,Car Parts,134,197,12,Germany,9.3,537,343.25
+Automotive,Car Parts,147,158,25,India,5.0,269,293.21
+Food,Food Products,547,462,7,USA,9.1,647,188.37
+Furniture,Chairs,346,259,10,Germany,7.7,663,329.31
+Electronics,Laptops,451,348,26,India,6.9,762,386.23
+Food,Food Products,272,478,19,Brazil,5.6,590,272.64
+Automotive,Car Parts,155,189,16,Brazil,8.8,353,284.78
+Apparel,Clothing,343,250,7,USA,6.4,278,247.56
+Apparel,Clothing,260,247,11,Germany,7.4,345,297.76
+Furniture,Tables,278,171,14,China,4.2,300,251.82
+Food,Food Products,476,462,8,Germany,6.9,581,358.22
+Electronics,Phones,458,333,17,Brazil,6.6,815,435.37
+Furniture,Tables,270,277,18,India,7.9,644,313.83
+Apparel,Clothing,273,282,14,China,7.7,482,252.68
+Apparel,Clothing,294,192,2,USA,7.5,390,262.15
+Furniture,Tables,243,130,16,China,5.2,370,303.3
+Electronics,Laptops,394,342,6,USA,8.6,1023,318.37
+Food,Food Products,612,418,16,China,5.1,475,457.62
+Furniture,Tables,208,191,5,USA,5.9,476,201.26
+Apparel,Clothing,330,276,4,USA,7.1,560,232.11
+Electronics,Phones,385,369,19,China,3.4,485,338.73
+Apparel,Clothing,307,262,15,China,4.4,388,403.4
+Apparel,Clothing,302,308,9,USA,9.8,589,365.58
+Electronics,Phones,399,267,15,Brazil,3.1,506,324.23
+Furniture,Chairs,249,205,17,China,4.7,587,277.11
+Electronics,Laptops,473,315,8,Germany,8.1,867,322.86
+Electronics,Phones,442,436,18,India,6.1,676,301.14
+Automotive,Car Parts,143,114,4,USA,7.2,304,252.05
+Furniture,Chairs,329,92,4,USA,5.1,354,246.74
+Food,Food Products,527,474,19,India,7.0,424,259.93
+Furniture,Tables,268,256,22,Brazil,4.8,358,249.98
+Food,Food Products,416,512,20,India,7.5,585,316.85
+Food,Food Products,450,386,16,China,5.5,346,322.61
+Apparel,Clothing,279,310,19,India,7.2,466,324.05
+Apparel,Clothing,303,201,8,USA,9.1,584,259.92
+Apparel,Clothing,319,302,21,India,5.4,307,384.8
+Furniture,Tables,268,145,9,Germany,8.9,772,311.35
+Automotive,Car Parts,182,169,10,China,4.5,194,292.19
+Food,Food Products,411,501,21,India,6.3,446,244.25
+Automotive,Car Parts,152,136,7,USA,9.0,400,233.26
+Electronics,Phones,336,438,12,China,7.3,827,395.53
+Food,Food Products,408,421,4,USA,10.4,725,220.78
+Automotive,Car Parts,175,184,20,Brazil,6.4,248,265.98
+Electronics,Phones,377,420,5,Germany,7.6,918,388.24
+Electronics,Phones,360,302,16,Brazil,9.8,1161,411.74
+Food,Food Products,287,535,11,Germany,9.6,823,347.2
+Apparel,Clothing,276,316,23,India,4.1,183,335.58
+Food,Food Products,479,398,22,China,5.3,356,306.91
+Electronics,Phones,332,432,26,India,4.8,558,293.37
+Food,Food Products,474,309,10,Germany,8.6,603,361.2
+Furniture,Tables,314,219,9,Germany,8.6,796,362.71
+Electronics,Phones,365,276,13,Germany,8.6,1013,321.47
+Electronics,Phones,353,407,3,USA,5.5,672,210.8
+Food,Food Products,388,519,13,China,5.5,547,318.43
+Food,Food Products,386,616,19,India,5.8,495,362.07
+Apparel,Clothing,316,307,19,India,3.8,249,265.42
+Apparel,Clothing,301,243,19,Brazil,4.2,248,303.0
+Automotive,Car Parts,169,148,8,Germany,9.4,460,352.83
+Apparel,Clothing,361,273,10,Germany,6.4,328,279.12
+Food,Food Products,317,445,15,Germany,9.5,550,314.38
+Apparel,Clothing,311,312,20,India,7.3,489,370.02
+Apparel,Clothing,266,163,23,Brazil,5.1,402,240.7
+Apparel,Clothing,324,338,9,USA,6.7,397,216.51
+Furniture,Tables,236,227,17,China,7.7,805,416.8
+Food,Food Products,503,385,4,USA,6.6,476,248.68
+Apparel,Clothing,262,279,23,India,5.1,183,305.59
+Furniture,Chairs,229,265,9,Germany,8.0,771,328.47
+Automotive,Car Parts,152,183,15,China,3.3,136,362.56
+Apparel,Clothing,341,179,21,India,4.3,337,339.83
+Apparel,Clothing,276,238,20,India,5.6,262,333.12
+Automotive,Car Parts,139,211,18,India,6.6,353,388.66
+Food,Food Products,594,490,10,China,5.3,325,412.86
+Electronics,Laptops,357,341,18,China,6.2,718,483.98
+Automotive,Car Parts,173,219,20,Brazil,3.1,200,248.15
+Food,Food Products,499,509,13,Brazil,6.9,566,452.37
+Furniture,Tables,265,241,3,USA,7.8,685,235.59
+Electronics,Laptops,418,325,16,China,7.0,645,461.31
+Food,Food Products,438,409,16,China,7.2,608,329.12
+Food,Food Products,539,314,10,China,6.6,589,355.46
+Apparel,Clothing,277,240,18,Brazil,4.8,225,283.56
+Automotive,Car Parts,140,208,22,India,7.4,314,259.38
+Food,Food Products,556,434,9,Germany,8.2,708,324.31
+Electronics,Phones,415,377,19,Brazil,5.3,570,272.15
+Furniture,Chairs,246,256,14,China,6.5,498,288.05
+Furniture,Tables,187,219,21,Brazil,5.5,499,307.78
+Food,Food Products,399,488,3,USA,7.3,489,296.62
+Electronics,Phones,414,269,12,China,7.2,823,369.56
+Apparel,Clothing,322,237,5,USA,6.4,370,265.19
+Food,Food Products,389,588,11,China,5.2,361,293.81
+Automotive,Car Parts,133,183,12,Brazil,6.3,384,227.77
+Furniture,Chairs,257,295,23,India,5.8,312,338.46
+Food,Food Products,511,392,7,Germany,9.0,723,392.5
+Electronics,Laptops,319,364,1,USA,8.0,993,305.62
+Food,Food Products,516,419,16,Brazil,4.7,294,334.9
+Electronics,Laptops,370,386,17,India,6.7,846,454.35
+Apparel,Clothing,349,286,18,Brazil,7.3,389,296.88
+Food,Food Products,525,498,2,USA,8.0,543,249.77
+Electronics,Phones,421,413,11,Germany,8.7,897,358.62
+Furniture,Tables,272,199,20,Brazil,5.2,535,349.23
+Food,Food Products,379,435,11,China,8.0,442,274.27
+Food,Food Products,694,309,18,India,5.3,545,352.28
+Food,Food Products,338,501,16,Brazil,6.0,423,302.28
+Food,Food Products,580,464,20,India,9.1,737,306.29
+Apparel,Clothing,319,247,18,China,7.3,494,345.89
+Furniture,Chairs,226,190,13,Germany,7.6,675,270.92
+Furniture,Chairs,283,198,17,Germany,7.6,615,251.05
+Electronics,Phones,384,336,8,China,6.4,843,387.69
+Automotive,Car Parts,136,164,17,India,7.0,320,366.14
+Apparel,Clothing,314,260,23,Brazil,5.7,306,271.52
+Apparel,Clothing,270,269,10,China,5.5,407,292.65
+Apparel,Clothing,293,219,10,USA,6.7,430,218.86
+Automotive,Car Parts,138,168,20,India,6.2,391,352.0
+Electronics,Phones,383,338,11,Germany,8.0,899,406.55
+Apparel,Clothing,313,250,11,China,7.2,403,378.86
+Apparel,Clothing,282,245,9,Germany,8.9,577,359.69
+Food,Food Products,481,503,25,India,9.3,655,282.66
+Electronics,Laptops,375,251,10,Germany,6.5,673,314.38
+Automotive,Car Parts,179,136,14,China,7.5,426,393.58
+Automotive,Car Parts,157,186,21,India,6.1,416,237.63
+Apparel,Clothing,307,226,4,USA,5.3,313,211.56
+Food,Food Products,568,521,16,China,8.4,540,401.14
+Automotive,Car Parts,138,215,15,Brazil,6.1,297,303.95
+Food,Food Products,586,469,15,China,7.7,624,314.13
+Electronics,Laptops,417,286,18,India,4.0,471,229.28
+Apparel,Clothing,253,292,10,China,6.2,469,413.78
+Food,Food Products,357,466,6,USA,6.2,525,190.92
+Apparel,Clothing,283,191,1,USA,10.1,554,274.35
+Food,Food Products,368,338,18,Brazil,7.2,497,280.37
+Automotive,Car Parts,145,226,13,Germany,7.3,283,320.19
+Automotive,Car Parts,130,221,16,India,4.2,276,245.12
+Apparel,Clothing,297,149,22,India,6.2,250,461.9
+Electronics,Laptops,471,269,9,Germany,9.1,895,355.55
+Automotive,Car Parts,149,214,2,USA,5.4,240,241.03
+Food,Food Products,470,449,11,USA,6.4,529,229.75
+Electronics,Laptops,419,392,15,China,4.8,493,342.58
+Automotive,Car Parts,136,178,16,Brazil,6.8,318,285.9
+Automotive,Car Parts,167,200,16,Brazil,4.9,227,381.44
+Apparel,Clothing,315,250,21,Brazil,5.0,325,314.54
+Apparel,Clothing,301,232,13,China,6.8,337,360.91
+Apparel,Clothing,305,292,20,Brazil,4.2,195,308.81
+Electronics,Phones,502,362,10,Germany,6.6,906,365.71
+Furniture,Chairs,297,233,18,China,8.6,781,308.6
+Food,Food Products,720,463,7,Germany,9.5,778,409.79
+Electronics,Laptops,427,321,12,China,6.8,767,332.86
+Furniture,Chairs,176,280,17,Brazil,5.9,503,308.2
+Apparel,Clothing,292,264,9,Germany,9.3,611,372.34
+Apparel,Clothing,249,236,9,Germany,8.2,561,383.46
+Automotive,Car Parts,161,218,18,Germany,7.6,430,325.22
+Furniture,Chairs,287,134,21,China,6.6,564,331.14
+Furniture,Chairs,206,312,21,India,7.7,748,362.44
+Food,Food Products,434,436,19,Brazil,5.6,197,288.84
+Apparel,Clothing,304,199,9,Germany,7.3,521,310.16
+Furniture,Tables,190,295,17,India,6.2,506,256.83
+Apparel,Clothing,262,231,17,Brazil,6.5,444,373.71
+Electronics,Laptops,462,365,20,Brazil,6.3,644,331.83
+Electronics,Laptops,406,393,14,Germany,8.6,830,304.06
+Apparel,Clothing,283,297,13,Germany,7.2,472,277.28
+Apparel,Clothing,249,262,10,China,7.7,373,350.83
+Automotive,Car Parts,167,161,19,India,6.0,278,223.6
+Apparel,Clothing,279,259,16,India,5.1,265,359.18
+Apparel,Clothing,356,233,14,Germany,8.8,535,312.93
+Food,Food Products,586,470,17,Brazil,4.8,433,389.43
+Electronics,Phones,360,448,10,Germany,6.4,674,320.49
+Food,Food Products,428,510,19,Brazil,4.0,328,233.13
+Electronics,Laptops,486,362,26,Brazil,5.2,662,260.32
+Automotive,Car Parts,148,202,11,Germany,8.6,392,273.62
+Electronics,Laptops,374,399,4,USA,6.5,668,258.24
+Apparel,Clothing,301,207,16,India,5.7,453,291.24
+Electronics,Laptops,374,353,22,Brazil,3.7,406,307.62
+Automotive,Car Parts,155,257,17,Brazil,7.0,379,265.32
+Apparel,Clothing,298,299,10,USA,9.6,633,270.89
+Apparel,Clothing,326,230,18,China,8.9,473,321.29
+Electronics,Laptops,381,314,4,USA,8.7,898,308.74
+Food,Food Products,412,399,1,USA,8.5,674,258.09
+Furniture,Tables,233,243,19,Brazil,2.4,44,332.93
+Automotive,Car Parts,143,228,18,India,6.2,298,348.93
+Furniture,Tables,246,229,5,USA,6.9,535,259.3
+Electronics,Phones,432,359,18,China,7.8,991,388.7
+Electronics,Phones,429,323,5,Germany,5.5,649,254.15
+Apparel,Clothing,336,263,6,USA,7.7,567,299.07
+Apparel,Clothing,276,217,7,USA,7.2,450,224.57
+Electronics,Laptops,419,234,17,China,8.2,909,395.4
+Food,Food Products,573,581,16,India,7.9,562,356.82
+Apparel,Clothing,280,210,6,USA,6.4,364,230.88
+Apparel,Clothing,294,237,9,USA,6.4,590,299.68
+Apparel,Clothing,248,276,21,India,6.3,449,251.6
+Apparel,Clothing,327,307,15,China,9.1,494,436.11
+Apparel,Clothing,294,260,8,USA,7.6,658,285.95
+Electronics,Laptops,440,278,18,India,4.5,462,311.4
+Electronics,Phones,410,332,0,USA,6.8,794,272.35
+Automotive,Car Parts,146,160,9,Germany,8.2,467,207.98
+Automotive,Car Parts,118,179,20,Brazil,5.9,201,233.42
+Apparel,Clothing,258,299,13,Germany,7.3,398,275.65
+Furniture,Chairs,120,73,7,USA,6.7,722,277.52
+Food,Food Products,444,417,18,China,5.0,357,398.66
+Apparel,Clothing,368,231,21,Brazil,7.2,521,424.13
+Electronics,Laptops,336,275,9,Germany,7.2,761,336.96
+Electronics,Laptops,268,385,20,India,5.4,603,352.61
+Food,Food Products,596,337,19,China,5.8,593,334.75
+Food,Food Products,736,346,6,Germany,6.4,519,233.29
+Electronics,Laptops,415,401,21,India,5.0,524,296.05
+Furniture,Tables,264,275,3,USA,9.0,731,266.89
+Furniture,Chairs,235,196,23,India,4.5,351,373.59
+Food,Food Products,321,353,10,Germany,7.0,639,334.73
+Electronics,Laptops,327,308,10,Germany,6.7,827,341.53
+Electronics,Laptops,384,410,10,USA,7.4,717,254.24
+Food,Food Products,449,459,17,India,8.3,628,223.83
+Electronics,Laptops,394,344,21,India,5.8,650,229.74
+Food,Food Products,583,475,4,USA,7.6,597,209.78
+Furniture,Tables,221,198,22,India,5.0,393,301.8
+Electronics,Phones,442,443,11,USA,7.4,945,324.34
+Furniture,Chairs,221,163,13,China,8.3,730,421.35
+Food,Food Products,604,381,6,Germany,8.1,644,346.18
+Automotive,Car Parts,152,138,13,China,9.7,438,318.03
+Food,Food Products,456,407,17,Brazil,7.4,488,371.74
+Apparel,Clothing,302,206,18,Brazil,5.4,522,260.96
+Food,Food Products,471,467,18,Brazil,5.3,563,363.2
+Furniture,Chairs,256,201,10,USA,9.5,822,231.95
+Furniture,Tables,288,146,25,India,6.2,662,275.58
+Automotive,Car Parts,148,198,19,China,8.6,503,432.97
+Electronics,Laptops,382,441,23,China,9.5,1007,390.48
+Electronics,Phones,344,371,17,China,6.2,624,328.38
+Furniture,Tables,279,73,18,China,7.0,668,421.98
+Electronics,Laptops,417,469,20,Brazil,7.0,810,407.97
+Electronics,Phones,341,395,17,China,7.7,821,360.39
+Apparel,Clothing,325,328,21,India,6.9,483,344.96
+Apparel,Clothing,264,294,17,Brazil,3.5,118,279.31
+Automotive,Car Parts,171,219,11,China,5.2,268,185.47
+Food,Food Products,569,466,5,USA,6.9,406,198.77
+Furniture,Chairs,271,187,12,Germany,9.2,710,358.67
+Furniture,Chairs,231,219,10,Germany,6.8,535,270.23
+Apparel,Clothing,317,222,7,Germany,9.5,621,333.26
+Apparel,Clothing,332,267,18,Brazil,6.7,370,311.43
+Furniture,Chairs,280,69,14,China,8.2,623,423.05
+Food,Food Products,433,453,18,Brazil,4.1,351,220.08
+Apparel,Clothing,308,304,21,India,6.1,485,352.14
+Apparel,Clothing,334,254,7,USA,7.9,536,251.63
+Apparel,Clothing,366,319,3,USA,7.8,614,237.71
+Furniture,Tables,240,187,13,Germany,8.3,839,301.99
+Automotive,Car Parts,167,210,13,Germany,7.7,357,294.79
+Food,Food Products,613,380,11,Germany,8.1,667,341.89
+Electronics,Laptops,359,408,17,China,8.1,897,392.83
+Automotive,Car Parts,186,187,23,India,4.6,294,315.06
+Apparel,Clothing,268,241,17,India,7.9,485,298.55
+Automotive,Car Parts,166,103,23,India,7.2,312,285.23
+Food,Food Products,531,430,18,India,4.8,487,281.13
+Apparel,Clothing,302,259,8,Germany,8.4,546,283.88
+Electronics,Phones,527,400,6,USA,8.6,899,307.75
+Furniture,Tables,235,278,4,Germany,6.8,552,333.46
+Apparel,Clothing,290,331,21,India,6.1,331,236.57
+Food,Food Products,633,550,13,Germany,7.9,504,264.54
+Furniture,Chairs,288,172,15,India,5.2,419,279.28
+Electronics,Phones,464,332,21,Brazil,5.6,672,323.64
+Food,Food Products,512,509,3,USA,6.8,514,200.93
+Automotive,Car Parts,156,196,19,Brazil,7.6,352,246.84
+Apparel,Clothing,357,315,13,China,5.6,452,275.94
+Electronics,Laptops,358,499,12,Germany,8.8,788,344.82
+Furniture,Chairs,245,313,18,China,4.0,376,336.11
+Electronics,Laptops,440,440,12,Germany,7.8,868,318.25
+Automotive,Car Parts,146,196,18,Brazil,5.5,218,223.29
+Electronics,Laptops,371,431,19,India,5.8,685,321.7
+Apparel,Clothing,319,316,20,India,5.5,330,279.11
+Furniture,Tables,317,193,12,Germany,7.3,741,389.52
+Apparel,Clothing,296,229,22,India,6.9,492,389.06
+Food,Food Products,483,389,20,Brazil,7.0,696,291.66
+Food,Food Products,435,380,16,India,5.9,399,329.82
+Furniture,Tables,235,131,18,Brazil,3.9,449,356.84
+Electronics,Phones,454,365,13,China,9.2,917,357.19
+Electronics,Laptops,404,290,20,Brazil,4.2,459,227.98
+Automotive,Car Parts,134,156,3,USA,5.7,260,172.05
+Automotive,Car Parts,155,201,6,USA,5.1,290,267.21
+Apparel,Clothing,332,257,4,USA,7.6,517,245.94
+Food,Food Products,444,484,4,Germany,7.8,503,311.92
+Food,Food Products,367,559,13,Germany,9.0,737,300.69
+Electronics,Phones,510,402,10,Germany,8.6,931,292.35
+Automotive,Car Parts,122,226,22,Brazil,5.9,248,225.3
+Apparel,Clothing,289,253,5,Germany,7.7,482,244.58
+Apparel,Clothing,307,314,14,China,8.2,407,383.19
+Apparel,Clothing,292,264,4,USA,9.7,674,312.18
+Electronics,Phones,396,360,19,Brazil,7.0,783,340.39
+Electronics,Phones,429,438,1,USA,6.9,778,232.25
+Food,Food Products,261,380,12,Germany,8.8,651,334.94
+Electronics,Phones,337,471,24,Brazil,4.9,716,401.13
+Food,Food Products,504,427,21,India,4.7,487,387.02
+Furniture,Tables,230,139,15,China,5.2,559,354.42
+Apparel,Clothing,304,276,6,Germany,7.6,472,287.79
+Furniture,Tables,261,181,8,Germany,8.1,620,310.5
+Apparel,Clothing,237,331,15,China,9.6,598,421.09
+Food,Food Products,627,415,13,China,5.2,417,379.68
+Furniture,Chairs,225,216,23,India,7.6,729,329.75
+Apparel,Clothing,274,193,12,Germany,7.7,502,283.76
+Apparel,Clothing,306,283,18,Germany,6.0,302,260.94
+Food,Food Products,511,388,2,USA,6.9,469,214.94
+Automotive,Car Parts,174,201,18,Brazil,7.3,326,366.92
+Food,Food Products,527,416,14,Brazil,6.0,500,266.65
+Furniture,Chairs,308,98,-2,USA,8.0,744,289.09
+Electronics,Laptops,353,358,20,Brazil,7.5,912,314.86
+Furniture,Chairs,257,204,16,China,4.9,457,321.82
+Apparel,Clothing,267,285,15,Brazil,3.9,101,263.84
+Electronics,Laptops,405,443,18,Brazil,2.1,64,296.4
+Apparel,Clothing,297,326,3,USA,8.6,525,244.7
+Apparel,Clothing,295,285,19,India,6.7,424,254.05
+Furniture,Chairs,243,214,17,Brazil,6.6,677,328.71
+Food,Food Products,574,336,15,Brazil,3.7,286,246.47
+Electronics,Laptops,320,362,18,India,4.1,361,408.71
+Electronics,Phones,355,363,3,USA,5.9,732,265.38
+Food,Food Products,496,434,21,India,4.9,365,276.46
+Apparel,Clothing,265,275,-3,USA,9.4,557,314.96
+Food,Food Products,505,540,14,China,8.0,455,382.41
+Apparel,Clothing,298,217,2,USA,7.0,440,217.13
+Furniture,Chairs,180,158,12,China,6.9,626,323.09
+Food,Food Products,355,439,13,China,5.5,322,355.86
+Food,Food Products,238,401,5,USA,7.9,662,267.53
+Food,Food Products,378,319,9,Germany,6.9,574,342.96
+Furniture,Tables,251,150,2,USA,8.4,739,254.01
+Apparel,Clothing,305,201,20,Brazil,4.2,265,325.05
+Apparel,Clothing,306,298,15,Brazil,6.7,486,185.45
+Electronics,Phones,361,452,8,Germany,7.6,889,332.69
+Automotive,Car Parts,150,147,16,China,5.3,224,291.5
+Electronics,Phones,420,383,11,Germany,9.6,1062,337.97
+Automotive,Car Parts,125,206,16,Brazil,5.8,322,286.51
+Apparel,Clothing,304,190,1,Germany,7.7,338,329.3
