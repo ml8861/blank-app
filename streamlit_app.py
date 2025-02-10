@@ -33,7 +33,7 @@ elif app_mode == "02 Data Visualization":
     st.bar_chart(df["Inventory_Level"])
     
     st.markdown ("### Line Chart")
-    st.line_chart(df["Line_Chart"])
+    st.line_chart(df["Inventory_Level"])
 
     user_selections = st.multiselect ("Select a variable",list_of_var, ["Category" , "Country"]) 
     fig, ax = plt.subplots (figsize = (6,4))
